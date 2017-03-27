@@ -1,0 +1,2 @@
+# Movie-Gross-Prediction
+You are asked to predict gross of movies that will be released in the last week of Spring semester, or the week where we have the final presentation of the projects.  The final presentation will be on May 3rd. So the movies of interest in this prediction will be ones that will release in that week. List of movies that will be on the screen in the week of May 1st: http://www.imdb.com/movies-coming-soon/2017-05/
