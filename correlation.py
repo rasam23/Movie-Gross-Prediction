@@ -2,7 +2,6 @@
 """
 Created on Tue Apr 25 00:40:38 2017
 
-@author: Nikita Redkar
 """
 
 import seaborn as sns
